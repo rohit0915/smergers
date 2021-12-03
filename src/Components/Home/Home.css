@@ -1,0 +1,113 @@
+.HomePageImage {
+  height: 670px;
+  background-color: rgb(0, 0, 0);
+  background-size: cover;
+  text-align: center;
+  background-image: url("https://www.smergers.com/static/images/background.min.jpg.pagespeed.ce._uU4UswJTB.jpg");
+  padding-top: 70px;
+  padding-bottom: 150px;
+  background-position: center center;
+}
+.image_message {
+  position: absolute;
+  margin-top: 200px !important;
+  text-align: center;
+  color: #fff;
+  font-size: 26px;
+  line-height: 1.43;
+  font-family: "proxima_novasemibold";
+}
+.Main_Heading_Get_started {
+  position: absolute;
+  margin-top: 445px !important;
+  text-align: center !important;
+  background-color: rgba(0,0,0,.5) !important;
+  width: 100% !important;
+}
+.Home_get_started {
+  font-size: 26px;
+  color: #fff;
+  font-family: "proxima_novasemibold";
+}
+.get_sarted_data {
+  color: #fff;
+  font-size: 16px;
+  padding: 5px;
+  line-height: 20px;
+  font-family: "proxima_novathin";
+}
+.why_semers {
+  font-size: 28px;
+}
+
+.whysemers_content {
+  font-size: 21px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.whysemers_cardcontent {
+  font-weight: 500;
+  font-size: 20px;
+  color: #000;
+  font-family: "proxima_novasemibold";
+}
+
+.whysemers_card_data {
+  font-size: 17px;
+  line-height: 1.5;
+  padding: 0 25px;
+  margin: 0.56em 0;
+  color: #6d7581;
+  font-family: "proxima_novalight" !important;
+}
+.cards_margins_both_side {
+  margin-left: 10% !important ;
+  margin-right: 10% !important;
+}
+.Heading_formatting {
+  font-size: 38px !important;
+  font-weight: 400 !important;
+}
+.content_cards {
+  font-size: 20px !important;
+  color: #6d7581;
+  font-family: "proxima_novalight" !important;
+}
+
+.cards_button {
+  padding: 10px 16px !important;
+  font-size: 18px !important;
+  line-height: 1.3333333 !important;
+  border-radius: 6px !important;
+  color: #fff !important;
+  font-weight: 200 !important;
+  background-color: #449d44 !important;
+  border-color: #398439 !important;
+  text-transform: capitalize !important;
+}
+
+.cards_image_formatting {
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  transition: all 0.3s;
+}
+.cards_image_formatting:hover {
+  transform: translateY(10%);
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 800px) {
+  .HomePageImage {
+    height: 1042px;
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    text-align: center;
+    background-image: url("https://www.smergers.com/static/images/background.min.jpg.pagespeed.ce._uU4UswJTB.jpg");
+    padding-top: 70px;
+    padding-bottom: 150px;
+    background-position: center center;
+  }
+}

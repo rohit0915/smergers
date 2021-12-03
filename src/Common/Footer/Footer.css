@@ -1,0 +1,68 @@
+.Footer_logo {
+  width: 140px !important;
+}
+.Footer_heading {
+  font-size: 14px;
+  color: #555;
+  padding-bottom: 10px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.Footer_heading_Links {
+  font-size: 12px;
+  color: #555;
+  padding-bottom: 5px;
+  line-height: 20px;
+}
+.Footer_heading_Links:hover {
+  cursor: pointer;
+  color: black;
+}
+.Footer_link_color {
+  color: blue;
+  font-size: 12px;
+}
+.Footer_link_color:hover {
+  color: skyblue;
+  font-size: 12px;
+  cursor: pointer;
+}
+.icon {
+  color: #5c78ac !important;
+  font-size: 12px !important;
+}
+
+.icon1 {
+  color: #0181b2 !important;
+  font-size: 12px !important;
+}
+
+.icon2 {
+  color: red !important;
+  font-size: 12px !important;
+}
+
+.icon3 {
+  color: #00ade1 !important;
+  font-size: 12px !important;
+}
+
+.icon4 {
+  color: pink !important;
+  font-size: 12px !important;
+}
+
+@media only screen and (min-width:300px) and (max-width:650px){
+  .Footer_heading {
+    font-size: 10px;
+    color: #555;
+    padding-bottom: 10px;
+    line-height: 20px;
+    font-weight: 400;
+  }
+  .Footer_link_color {
+    color: blue;
+    font-size: 10px;
+  }
+}
+

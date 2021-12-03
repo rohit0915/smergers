@@ -1,0 +1,9 @@
+.contact_business_form {
+  font-size: 25px;
+  font-family: "proxima_novasemibold";
+  color: #ebbc08;
+}
+.form-check-input{
+    position: none;
+    margin-left: 0;
+}

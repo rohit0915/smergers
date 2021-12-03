@@ -1,0 +1,30 @@
+#firstsidebar {
+  display: block;
+}
+
+.sidebar_tabs .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  font-size: 12px !important;
+  width: 50%;
+  max-width: auto;
+  min-width: auto;
+  position: none;
+}
+
+.left_pannel_links {
+  color: #333 !important;
+  cursor: pointer !important;
+}
+.left_pannel_links:hover {
+  color: rgb(0, 0, 255) !important;
+  cursor: pointer !important;
+}
+
+.siebar_top_head {
+  font-size: 22px;
+  color: #000;
+}
+@media only screen and (min-width: 300px) and (max-width: 800px) {
+  #firstsidebar {
+    display: none;
+  }
+}

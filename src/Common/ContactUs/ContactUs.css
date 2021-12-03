@@ -1,0 +1,14 @@
+.contact_submit {
+  background-color: #5bb75b !important;
+  color: #fff !important;
+  text-transform: capitalize !important;
+}
+.contact_address {
+  color: #111 !important;
+  font-family: "proxima_novasemibold" !important;
+  font-size: 14px !important;
+}
+.Contact_Full_address{
+  font-size: 14px !important;
+  color: #6d7581;
+}

@@ -1,0 +1,36 @@
+.card_heading_bussiness {
+  font-size: 12px;
+  font-weight: 500;
+  color: #000;
+}
+.note_message {
+  color: #555;
+  font-size: 12px;
+  text-align: center;
+}
+.Select_service {
+  font-size: 16px;
+  color: #000;
+  font-family: "proxima_novasemibold";
+}
+.select_plan_btn {
+  color: #000 !important;
+  padding: 12px 12px !important;
+  border-color: #f3c81d #f6cd08 #d2aa0b !important;
+  background-color: #f3c81d !important ;
+  display: inline-block;
+  font-size: 14px !important;
+  text-align: center;
+  text-transform: capitalize !important;
+  line-height: 1.42857142 !important;
+  border: 1px solid transparent;
+}
+.value_your_bussiness_heading {
+  color: #111;
+  font-family: "proxima_novasemibold";
+  line-height: 1.43em;
+  font-size: 20px;
+}
+.image_icon_height_advisor {
+  height: 118px;
+}

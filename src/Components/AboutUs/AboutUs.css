@@ -1,0 +1,45 @@
+.About_us_main_heading {
+  color: #4183c4;
+  font-family: "proxima_novasemibold";
+  font-size: 28px;
+}
+
+.icon_about_us {
+  color: #5cb85c;
+}
+
+.press_img_formatting {
+  width: 100% !important;
+}
+
+.press_heading {
+  color: #0365c0;
+  font-size: 14px;
+  cursor: pointer;
+}
+.press_content {
+  font-family: "proxima_novaregular";
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-weight: 400;
+  font-size: 14px;
+}
+.press_cards {
+  display: flex;
+}
+.pressdetail_cards_content {
+  font-size: 10px;
+  color: #555;
+}
+.question_formatting {
+  cursor: pointer !important;
+  color: #4183c4 !important;
+  font-size: 12px !important;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 800px) {
+  .press_cards {
+    display: block;
+  }
+}

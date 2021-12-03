@@ -1,0 +1,37 @@
+.card_bussiness_heading {
+  padding-bottom: 10px;
+  font-size: 15px;
+  color: #000;
+  font-weight: 500;
+}
+.bussiness_card_style {
+  font-size: 10px !important;
+  color: #555;
+}
+.business_image_style {
+  width: 100%;
+}
+
+.card_rate_format {
+  background-color: #f5f5f5;
+  font-size: 12px;
+  height: 30px;
+  color: #444;
+}
+.bussiness_sales_price {
+  font-size: 17px;
+  text-align: right;
+}
+.Business_contact_button {
+  color: #000 !important;
+  padding: 12px 12px !important;
+  border-color: #f3c81d #f6cd08 #d2aa0b !important;
+  background-color: #f3c81d !important ;
+  display: inline-block;
+  font-size: 14px !important;
+  text-align: center;
+  text-transform: capitalize !important;
+  line-height: 1.42857142 !important;
+  border: 1px solid transparent;
+  width: 100% !important;
+}
