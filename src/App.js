@@ -41,6 +41,7 @@ import BusinessLender from "./Components/Investers/BusinessLender";
 
 //scrooll to top
 import ScrollToTop from "react-scroll-to-top";
+import Blogs from './Components/Blogs/Blogs';
 
 function App() {
   return (
@@ -79,6 +80,7 @@ function App() {
         <Route exact path="/private-equity-firms" component={PrivateEquity} />
         <Route exact path="/family-office" component={FamilyOffice} />
         <Route exact path="/business-lender" component={BusinessLender} />
+        <Route exact path="/blogs" component={Blogs} />
         <Redirect to="/"/>
       </Switch>
     </>

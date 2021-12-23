@@ -109,6 +109,7 @@ const ContentHeader = (props) => {
                             <div class="dropdown-toggle" data-toggle="dropdown">Company
                             </div>
                             <div class="dropdown-menu">
+                                <div className="dropdownLinks pl-2" onClick={() => props.history.push("/blogs")}>Blogs</div>
                                 <div className="dropdownLinks pl-2" onClick={() => props.history.push("/about-us")}>About us</div>
                                 <div className="dropdownLinks pl-2" onClick={() => props.history.push("/privacy")}>Private policy</div>
                                 <div className="dropdownLinks pl-2" onClick={() => props.history.push("/disclaimer")}>Disclaimer</div>
